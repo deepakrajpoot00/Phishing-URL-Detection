@@ -52,8 +52,8 @@ All these models are trained on the dataset and evaluation of the model is done 
 * Step 1: Clone the Repository<br>
 * Open your terminal or command prompt and run:<br>
 
-       git clone https://github.com/shreyagopal/Phishing-Website-Detection-by-Machine-Learning-Techniques.git
-       cd Phishing-Website-Detection-by-Machine-Learning-Techniques
+       git clone https://github.com/deepakrajpoot00/Phishing-URL-Detection.git
+       cd Phishing-URL-Detection
 
 * Step 2: Set Up a Virtual Environment (Recommended)
 
@@ -78,7 +78,7 @@ Start Jupyter in the project directory:<br>
   
 Then open the notebook:<br>
 
-        Phishing_Website_Detection_by_Machine_Learning_Techniques.ipynb
+        Phishing-URL-Detection.ipynb
 
 * Step 5: Run the Notebook<br>
 Run all cells step-by-step:<br>
